@@ -20,4 +20,4 @@ gcc -o client client.cpp
 gcc -o server server.cpp
 ```
 
-![alt text](src/Screenshot from 2021-09-06 19-13-32.png)
+![image](https://user-images.githubusercontent.com/41021025/132241806-a6ef91d1-ca46-4a98-99a5-0151d48b3731.png)
